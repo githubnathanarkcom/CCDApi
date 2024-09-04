@@ -1,0 +1,13 @@
+C:\office\ccdapi\CCDApi\CCDApi\obj\Release\net8.0\PubTmp\Out\CCDApi.exe
+C:\office\ccdapi\CCDApi\CCDApi\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\office\ccdapi\CCDApi\CCDApi\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\office\ccdapi\CCDApi\CCDApi\obj\Release\net8.0\PubTmp\Out\CCDApi.dll
+C:\office\ccdapi\CCDApi\CCDApi\obj\Release\net8.0\PubTmp\Out\CCDApi.deps.json
+C:\office\ccdapi\CCDApi\CCDApi\obj\Release\net8.0\PubTmp\Out\CCDApi.runtimeconfig.json
+C:\office\ccdapi\CCDApi\CCDApi\obj\Release\net8.0\PubTmp\Out\CCDApi.pdb
+C:\office\ccdapi\CCDApi\CCDApi\obj\Release\net8.0\PubTmp\Out\System.Data.SqlClient.dll
+C:\office\ccdapi\CCDApi\CCDApi\obj\Release\net8.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\office\ccdapi\CCDApi\CCDApi\obj\Release\net8.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\office\ccdapi\CCDApi\CCDApi\obj\Release\net8.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\office\ccdapi\CCDApi\CCDApi\obj\Release\net8.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\office\ccdapi\CCDApi\CCDApi\obj\Release\net8.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
